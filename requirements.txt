@@ -1,0 +1,9 @@
+google-cloud-aiplatform
+google-cloud-pipeline-components
+kfp
+numpy
+tensorflow>=2.10,<3.0
+pillow
+tf-agents
+fastapi
+google-cloud-storage
